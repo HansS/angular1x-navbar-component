@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/hanss/angular1x-navbar-component"
+  },
   "keywords": [],
   "author": "Hans Schenker <hans.schenker@windowslive.com> (http://www.netxpert.ch/)",
   "license": "ISC"
