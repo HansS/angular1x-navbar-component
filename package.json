@@ -1,0 +1,12 @@
+{
+  "name": "angular1x-navbar-component",
+  "version": "0.0.1",
+  "description": "angular1x es6 syntax component based on boostrap3 and stylus - based on AngularClass Ng6-Starter",
+  "main": "navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hans Schenker <hans.schenker@windowslive.com> (http://www.netxpert.ch/)",
+  "license": "ISC"
+}
